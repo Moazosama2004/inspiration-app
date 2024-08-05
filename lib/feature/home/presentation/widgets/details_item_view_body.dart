@@ -10,7 +10,7 @@ class DetailsItemViewBody extends StatelessWidget {
       child: Container(
         decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(5.0),
-          image: DecorationImage(
+          image: const DecorationImage(
             fit: BoxFit.cover,
             image: AssetImage(
               'assets/images/three.jpg'
