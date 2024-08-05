@@ -60,7 +60,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, feel free to reach out.
 
-- Email: [your-email@example.com](mailto:moazosama204@gmail.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/moaz-osama-161ab723a/)
+- Email: [moazosama204@gmail.com](mailto:moazosama204@gmail.com)
+- LinkedIn: [Muaz Osama](https://www.linkedin.com/in/moaz-osama-161ab723a/)
 
 
